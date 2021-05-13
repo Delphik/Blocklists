@@ -1,0 +1,8 @@
+! Ublock Origin BLocklist to block social media clickbait sites
+! @author delphik
+
+twitter.com
+tiktok.com
+facebook.com
+instagram.com
+
